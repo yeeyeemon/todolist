@@ -26,7 +26,7 @@
 
                 @method('DELETE')
 
-                <span><button type="submit" class="btn-link">delete</button></span>
+                <span><button type="submit" class="btn-link"><i class="fas fa-trash"></i></button></span>
               </form>
 
             </li>

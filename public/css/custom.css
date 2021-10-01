@@ -18,3 +18,9 @@ p{
     font-family: inherit;
     font-size: inherit;
 }
+form{
+    display: inline-block;
+}
+span{
+    margin-left: 10px;
+}
