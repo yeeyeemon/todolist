@@ -1,0 +1,20 @@
+li{
+    list-style-type: none;
+}
+ul{
+    display: inline-block;
+}
+p{
+    color:red;
+}
+.btn-link {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: red;
+    padding: 0;
+    text-decoration: underline;
+    font-family: inherit;
+    font-size: inherit;
+}
